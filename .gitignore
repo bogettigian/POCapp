@@ -5,4 +5,4 @@
 #whitelist
 !.gitignore
 !/Assets/
-!/ProyectSettings/
+!/ProjectSettings/
