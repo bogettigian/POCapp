@@ -1,0 +1,8 @@
+#ignora todo
+/*
+/*/
+
+#whitelist
+!.gitignore
+!/Assets/
+!/ProyectSettings/
