@@ -4,6 +4,7 @@
 /Temp/
 
 #Android
-/AndroidProject/build.gradle
-/AndroidProject/local.properties
+!/AndroidProject/build.gradle
+!/AndroidProject/gradle.properties
+
 
