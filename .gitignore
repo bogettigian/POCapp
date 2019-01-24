@@ -1,8 +1,9 @@
-#ignora todo
-/*
-/*/
+#Unity
+/Library/
+/Packages/
+/Temp/
 
-#whitelist
-!.gitignore
-!/Assets/
-!/ProjectSettings/
+#Android
+/AndroidProject/build.gradle
+/AndroidProject/local.properties
+
