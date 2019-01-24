@@ -7,6 +7,8 @@
 /AndroidProject/.idea/
 /AndroidProject/.gradle/
 /AndroidProject/build/
+/AndroidProject/build.gradle
+/AndroidProject/local.properties
 /AndroidProject/*.iml
 
 
