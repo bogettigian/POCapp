@@ -4,7 +4,9 @@
 /Temp/
 
 #Android
-!/AndroidProject/build.gradle
-!/AndroidProject/gradle.properties
+/AndroidProject/.idea/
+/AndroidProject/.gradle/
+/AndroidProject/build/
+/AndroidProject/*.iml
 
 
