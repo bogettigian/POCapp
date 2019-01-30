@@ -1,6 +1,6 @@
 package com.BogettiBozzo.POCapp;
 
-import android.support.v7.appd.AppCompatActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
