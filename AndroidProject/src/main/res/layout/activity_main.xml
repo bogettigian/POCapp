@@ -6,4 +6,23 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <Button
+        android:id="@+id/button_id"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="75dp"
+        android:layout_marginLeft="75dp"
+        android:layout_marginEnd="75dp"
+        android:layout_marginRight="75dp"
+        android:backgroundTint="#1ACACF"
+        android:onClick="runUnity"
+        android:orientation="vertical"
+        android:padding="25dp"
+        android:text="truco"
+        android:translationY="270dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
 </android.support.constraint.ConstraintLayout>
