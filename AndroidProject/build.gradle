@@ -7,12 +7,15 @@ buildscript {
     }
 
     dependencies {
-        classpath 'com.android.tools.build:gradle:3.0.1'
+        classpath 'com.android.tools.build:gradle:3.3.0'
+        compile 'com.android.support:appcompat-v7:22.0.0'
     }
 }
 
 allprojects {
     repositories {
+        google()
+        jcenter()
         flatDir {
             dirs 'libs'
         }
@@ -27,7 +30,6 @@ dependencies {
 
 android {
     compileSdkVersion 28
-    buildToolsVersion '28.0.2'
 
     defaultConfig {
         minSdkVersion 16
